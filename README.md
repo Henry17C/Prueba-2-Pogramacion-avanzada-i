@@ -1,2 +1,2 @@
-# Prueba-2-Pogramacion-avanzada-ii
-Test Repositorio programacion avanzada II, Henry Coyago.
+# Prueba-2-Pogramacion-avanzada-i
+Programacion avanzada I, Henry Coyago.
